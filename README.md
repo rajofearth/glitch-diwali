@@ -21,7 +21,7 @@ Welcome to Glitch Diwali! This isn't your ordinary Diwali greeting - it's a fun,
 - Everything returns to normal after the "hack" - no harm done!
 
 ## 🚀 Live Demo
-Check out the live demo here: [Glitch Diwali Demo](rajofearth.github.io/glitch-diwali)
+Check out the live demo here: [Glitch Diwali Demo](https://rajofearth.github.io/glitch-diwali/)
 
 ## 🛠️ Tech Stack
 - Pure HTML5
